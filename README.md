@@ -17,12 +17,12 @@ This `Spoofing --Module` allows you to spoof your device's model number, trickin
 - Accessing exclusive features
 - Enhancing compatibility
 
-#### Changelog
+#### Changelog v1.0 - Initial release
 
 ```
-- v1.0 - Initial release
 - Spoof model number
 - Customizable model selection
+- Termux cmd menu available
 - Compatible with various Android versions
 - Easy installation via Magisk
 ```
