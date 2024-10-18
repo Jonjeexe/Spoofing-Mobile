@@ -6,6 +6,7 @@
 
 ---
 
+#### Description
 <p> This Magisk module allows you to spoof your device's model number, tricking apps and services into thinking you're using a different device. Perfect for: </p>
 
 > - Bypassing device-specific restrictions
@@ -13,7 +14,7 @@
 > - Enhancing compatibility
 
 
-### Termux Cmd
+#### Termux Cmd
 ```
 su -c Spoofing
 ```
