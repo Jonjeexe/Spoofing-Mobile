@@ -27,8 +27,6 @@ This `Spoofing --Module` allows you to spoof your device's model number, trickin
 - Easy installation via Magisk
 ```
 
-##### Credits [@Jonjeexe](https://t.me/Jonjeexe)
-
 #### Termux Cmd
 ```
 su -c Spoofing
@@ -62,5 +60,5 @@ The official `Spoofing --Mobile` files can only be obtained from [Github release
   <a href="#"><img src="https://img.shields.io/badge/XDA-Thread-purple?logo=xdadevelopers&style=social"></a>
   <br/>
 <p align="center">
-  Spoofing Mobile © 2024-2025
+  Spoofing Mobile © 2024-2025 Credits [@Jonjeexe](https://t.me/Jonjeexe)
 </p>
