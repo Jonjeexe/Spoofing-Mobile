@@ -52,6 +52,8 @@ The official `Spoofing --Mobile` files can only be obtained from [Github release
 
 > Spoofing Mobile is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 
+#### Credits [@Jonjeexe](https://t.me/Jonjeexe)
+
 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg?style=flat&logo=creativecommons"/></a>
 
 <br/>
@@ -60,5 +62,5 @@ The official `Spoofing --Mobile` files can only be obtained from [Github release
   <a href="#"><img src="https://img.shields.io/badge/XDA-Thread-purple?logo=xdadevelopers&style=social"></a>
   <br/>
 <p align="center">
-  Spoofing Mobile © 2024-2025 Credits [@Jonjeexe](https://t.me/Jonjeexe)
+  Spoofing Mobile © 2024-2025 
 </p>
