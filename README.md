@@ -7,6 +7,10 @@
 ---
 
 ### Termux Cmd
+
+![IMG_20241018_174332](https://github.com/user-attachments/assets/83b23b7d-294c-4660-b35b-5032277e91aa)
+
+
 ```
 su -c Spoofing
 ```
