@@ -25,10 +25,9 @@ This `Spoofing --Module` allows you to spoof your device's model number, trickin
 - Termux cmd menu available
 - Compatible with various Android versions
 - Easy installation via Magisk
-
+```
 Now you can change your Device model number manually, Using Termux cmd Menu by input.
 
-```
 
 #### Termux Cmd
 ```
