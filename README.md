@@ -1,8 +1,8 @@
 ## Spoofing-Mobile
 
+
+### Termux Cmd
 ```
-
-Hhjjjjj
-
+su -c Spoofing
 
 ```
