@@ -17,7 +17,7 @@ This `Spoofing --Module` allows you to spoof your device's model number, trickin
 - Accessing exclusive features
 - Enhancing compatibility
 
-*Changelog:* 
+#### Changelog
 
 - v1.0 - Initial release
 - Spoof model number
@@ -25,7 +25,7 @@ This `Spoofing --Module` allows you to spoof your device's model number, trickin
 - Compatible with various Android versions
 - Easy installation via Magisk
 
-*Credits:* @Jonjeexe
+##### Credits [@Jonjeexe](https://t.me/Jonjeexe)
 
 #### Termux Cmd
 ```
