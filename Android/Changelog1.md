@@ -1,5 +1,5 @@
+---
 
-![Spoofingg](https://github.com/user-attachments/assets/c8d22cc1-f663-440e-bdca-082c070aa02f)
 ### Changelog v1.0 - Initial release
 ```
 - Spoof model number
@@ -11,3 +11,5 @@
 > Now you can change your Device model number manually, Using Termux cmd Menu by input.
 
 ### Maintainer [@Jonjeexe](https://t.me/Jonjeexe)
+
+---
