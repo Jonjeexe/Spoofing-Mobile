@@ -4,5 +4,4 @@
 ### Termux Cmd
 ```
 su -c Spoofing
-
 ```
