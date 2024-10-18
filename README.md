@@ -19,11 +19,13 @@ This `Spoofing --Module` allows you to spoof your device's model number, trickin
 
 #### Changelog
 
+```
 - v1.0 - Initial release
 - Spoof model number
 - Customizable model selection
 - Compatible with various Android versions
 - Easy installation via Magisk
+```
 
 ##### Credits [@Jonjeexe](https://t.me/Jonjeexe)
 
